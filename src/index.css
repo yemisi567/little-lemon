@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200;300;700&family=Merriweather:ital,wght@1,300;1,700&family=Roboto:wght@100;300;500&display=swap');
+@import 'bootstrap/dist/css/bootstrap.css';
+
+body {
+  margin: 0;
+  font-family: 'Karla', sans-serif;
+
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #495E57;
+  color: #F4CE14;
+}
+
